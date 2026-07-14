@@ -22,19 +22,16 @@ This project demonstrates the installation and configuration of the osTicket Hel
 - MySQL
 - osTicket
 
-## 📸 Installation Steps
-
 ### Step 1 - Create an Azure Windows 10 Virtual Machine
 
-(Add screenshot here)
 
 ### Step 2 - Install IIS
 
-(Add screenshot here)
-
+<img width="694" height="384" alt="mmm" src="https://github.com/user-attachments/assets/89bd2c26-8c5d-4f6f-85b4-5e8be0c738a9" />
+Enabled Internet Infprmation Servvices through Windows Features before installing osTicket.
 ### Step 3 - Install the osTicket files
 
-(Add screenshot here)
+
 
 ### Step 4 - Complete the osTicket Installation
 
