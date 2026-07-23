@@ -23,9 +23,11 @@ This project demonstrates the installation and configuration of the osTicket Hel
 - osTicket
 
 ### Step 1 - Create an Azure Windows 10 Virtual Machine
-<img width="1309" height="698" alt="Screenshot 2026-07-14 042942" src="https://github.com/user-attachments/assets/674f883c-3ad3-4dec-aac3-a9e5322c8640" />
-This is the vm i created
-
+<img width="1357" height="613" alt="Screenshot 2026-07-22 200002" src="https://github.com/user-attachments/assets/56d31b6c-3ddd-400d-80a8-15b002c286f3" />
+This project begins by creating a Windows 10 virtual machine inside Microsoft Azure
+<img width="1215" height="481" alt="Screenshot 2026-07-22 200942" src="https://github.com/user-attachments/assets/12fe3464-cc31-4ea3-866f-ad2366eaae83" />
+<img width="452" height="247" alt="Screenshot 2026-07-22 201138" src="https://github.com/user-attachments/assets/cb0360d4-094b-480b-a8cf-6cfb991c583d" />
+After i created the VM, the public IP address will be used to login into the vm using Remote Desktop Connection.
 ### Step 2 - Install IIS
 
 <img width="694" height="384" alt="mmm" src="https://github.com/user-attachments/assets/89bd2c26-8c5d-4f6f-85b4-5e8be0c738a9" />
