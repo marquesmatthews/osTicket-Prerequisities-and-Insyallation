@@ -49,7 +49,7 @@ PHP Manager for IIS has been successfully installed
 The rewrite Module has been installed
 Step 6 -Place PHP files into the "C:PHP" folder
 <img width="836" height="498" alt="AAA" src="https://github.com/user-attachments/assets/14ecb14d-bef2-495d-bbb9-25f87a720d84" />
-
+The first step in this next installation will be to create a new folding on the C:\ drive called "PHP".
 
 
 
