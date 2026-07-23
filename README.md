@@ -77,6 +77,9 @@ Once the installation was complete, I checked the box to launch the MySQL Instan
 
 <img width="1155" height="663" alt="PHPP" src="https://github.com/user-attachments/assets/0e39cb4e-307a-488b-afcd-892906b169a9" />
     Inside the IIS Manager, open "PHP Manager.
+
+<img width="539" height="499" alt="NOW" src="https://github.com/user-attachments/assets/6eb33bb4-c64c-4576-a3c4-f1332902d525" />
+Click the link "Register new PHP version"
  
 <img width="1086" height="579" alt="1222" src="https://github.com/user-attachments/assets/e080b473-bb0b-438e-9510-116c34f4577d" />
 
