@@ -57,7 +57,7 @@ The destination for the extraction will be "C:\PHP".
 <img width="784" height="605" alt="77777" src="https://github.com/user-attachments/assets/abbac249-fa4c-4247-b489-f76d472552cd" />
 After extracting the files to C:\PHP, the PHP installation was organized in one location. This allows IIS to find and use PHP so osTicket can run properly.
 Step 7-Install Microsoft Visual Studio C+ Redistributable
-<img width="490" height="292" alt="000" src="https://github.com/user  Next, I installed the Microsoft Visual C++ Redistributable. This is required because PHP and MySQL depend on it to run on Windows. Without it, osTicket may not function correctly.
+<img width="490" height="292" alt="000" src="https://github.com/user  Next, I installed the Microsoft Visual C++ Redistributable. 
  attachments/assets/51e76381-e59f-470b-be0c-8dfef0e09268" />
 <img width="477" height="309" alt="4444" src="https://github.com/user-attachments/assets/e7591e85-dd34-41f4-907c-c7c76fc5bf8f" /> 
 Step 8 -Intal MySQL
