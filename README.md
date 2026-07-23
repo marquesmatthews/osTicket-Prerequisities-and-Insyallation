@@ -28,10 +28,10 @@ This project begins by creating a Windows 10 virtual machine inside Microsoft Az
 <img width="1215" height="481" alt="Screenshot 2026-07-22 200942" src="https://github.com/user-attachments/assets/12fe3464-cc31-4ea3-866f-ad2366eaae83" />
 <img width="452" height="247" alt="Screenshot 2026-07-22 201138" src="https://github.com/user-attachments/assets/cb0360d4-094b-480b-a8cf-6cfb991c583d" />
 After i created the VM, the public IP address will be used to login into the vm using Remote Desktop Connection.
-### Step 2 - Install IIS
+### Step 2 -Download OsTicket installation files
+<img width="1109" height="474" alt="hhh" src="https://github.com/user-attachments/assets/1cb8d2b5-8316-4658-b922-ff22e98f7da2" />
+After signinng into Windows 10 virtual machine,the installation package contanining all required osTicket files was extracted.The download links for each file included in the installation package.
 
-<img width="694" height="384" alt="mmm" src="https://github.com/user-attachments/assets/89bd2c26-8c5d-4f6f-85b4-5e8be0c738a9" />
-Enabled Internet Infprmation Services through Windows Features before installing osTicket.
 ### Step 3 - Install the osTicket files
 
 <img width="763" height="441" alt="yy" src="https://github.com/user-attachments/assets/c5e0d365-ea78-4143-99f5-c50fac4fd5c9" />
