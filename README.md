@@ -66,7 +66,8 @@ Step 8 -Intal MySQL
 <img width="607" height="370" alt="23" src="https://github.com/user-attachments/assets/6c7726c0-09ef-4538-b20a-c07311844d6e" />
 <img width="500" height="404" alt="AAAN" src="https://github.com/user-attachments/assets/df6ab541-ae71-4782-b092-839e268ac9ba" />
 Step 9 -Register PHP from within IIS
-<img width="1086" height="579" alt="1222" src="https://github.com/user-attachments/assets/d329f893-7097-4a54-9c0d-d30b1efea94d" />
 <img width="539" height="499" alt="NOW" src="https://github.com/user-attachments/assets/91cdec8f-1e0a-4a94-93b2-049db84bb705" />
 <img width="1155" height="663" alt="PHPP" src="https://github.com/user-attachments/assets/ff1f692c-4f4c-4951-9394-c24b42e62f4d" />
 <img width="777" height="446" alt="IISS" src="https://github.com/user-attachments/assets/01bd3b28-b3e4-4819-8f19-b8ab9821a2e8" />
+<img width="1086" height="579" alt="1222" src="https://github.com/user-attachments/assets/e080b473-bb0b-438e-9510-116c34f4577d" />
+
