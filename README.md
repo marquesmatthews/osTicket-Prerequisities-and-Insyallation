@@ -73,6 +73,8 @@ Select standard configuration.
 MySQL has been succesful installed.
 Step 9 -Register PHP from within IIS
 <img width="777" height="446" alt="IISS" src="https://github.com/user-attachments/assets/01bd3b28-b3e4-4819-8f19-b8ab9821a2e8" />
+Once the installation was complete, I checked the box to launch the MySQL Instance Configuration Wizard. The wizard was used to configure the MySQL server and create the settings needed for osTicket to connect to the database successfully. 
 
+ 
 <img width="1086" height="579" alt="1222" src="https://github.com/user-attachments/assets/e080b473-bb0b-438e-9510-116c34f4577d" />
 
