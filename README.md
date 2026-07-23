@@ -28,23 +28,28 @@ This project begins by creating a Windows 10 virtual machine inside Microsoft Az
 <img width="1215" height="481" alt="Screenshot 2026-07-22 200942" src="https://github.com/user-attachments/assets/12fe3464-cc31-4ea3-866f-ad2366eaae83" />
 <img width="452" height="247" alt="Screenshot 2026-07-22 201138" src="https://github.com/user-attachments/assets/cb0360d4-094b-480b-a8cf-6cfb991c583d" />
 After i created the VM, the public IP address will be used to login into the vm using Remote Desktop Connection.
-### Step 2 -Download OsTicket installation files
+ Step 2 -Download OsTicket installation files
 <img width="1109" height="474" alt="hhh" src="https://github.com/user-attachments/assets/1cb8d2b5-8316-4658-b922-ff22e98f7da2" />
 After signinng into Windows 10 virtual machine,the installation package contanining all required osTicket files was extracted.The download links for each file included in the installation package.
+ Step 3 -Enable IIS in Windows with CGI
+ Internet Information Service is Mirsosoft's built-in web server for windows.it enabled to host the osTicket website.During installation,the CGI(Common Gateway Interface) feature was also enabled because osTicket is built with PHP.CGI allowsIIS to process PHP scripts and display the web application correctly.
+<img width="519" height="536" alt="ppp" src="https://github.com/user-attachments/assets/d48b14c6-23a1-4940-aff8-a82a26c55818" />
+Process beings by typing "Control pannel" in the serach nextto the Windows icon.Then uninstall a program.after that click Turn Windowns features on or off
+<img width="495" height="434" alt="kkk" src="https://github.com/user-attachments/assets/b89213dc-21b0-48c9-b73c-75e61b474f4e" />
+Inside Windows Features the first step is to check the box next "Internet Information Sercices" to turn IIS on.
+<img width="418" height="374" alt="Annotation 2026-07-23 014007" src="https://github.com/user-attachments/assets/02f29a1d-f8a6-4865-bd25-b4cbd8615301" />
+Now click + sign next to "internet information Services" to expand the folder.Then expand the "World Wide Web Services"folder and expand "Application Development Features" folder.Check the box next to "CGI.Then click "OK" to install IIS with CGI installation.
+<img width="648" height="459" alt="Annotation 2026-07-23 014133" src="https://github.com/user-attachments/assets/07f6f9c0-a0d1-4552-8971-274f6721b4fd" />
+Now IIS and 
+ Step 4 - Complete the osTicket Installationextracted osTicketthe 
 
-### Step 3 - Install the osTicket files
-
-<img width="763" height="441" alt="yy" src="https://github.com/user-attachments/assets/c5e0d365-ea78-4143-99f5-c50fac4fd5c9" />
-Copied the extracted osTicket files to C:\intetpub\wwwroot\osTicket' and verrified the files were successfully placed in the web root directory
-### Step 4 - Complete the osTicket Installationextracted osTicket
-
-<img width="1157" height="698" alt="Screenshot 2026-07-14 190917" src="https://github.com/user-attachments/assets/7edfef2b-b75e-42e4-b31f-e292fc5fd4bd" />
+gns by <img width="1157" height="698" alt="Screenshot 2026-07-14 190917" src="https://github.com/user-attachments/assets/7edfef2b-b75e-42e4-b31f-e292fc5fd4bd" />
 Successfully completed the osTicket installation and verified that the application was installed
 ### Step 5 - Log in to the Admin Panel
 
 <img width="1124" height="672" alt="Screenshot 2026-07-14 191725" src="https://github.com/user-attachments/assets/fc871cf6-d439-4339-bcbf-d648376fbfc9" />
 
-## ✅ Result
+
 
 Successfully deployed and configured the osTicket Help Desk Ticketing System and verified administrator access.
 
