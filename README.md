@@ -41,23 +41,18 @@ Inside Windows Features the first step is to check the box next "Internet Inform
 Now click + sign next to "internet information Services" to expand the folder.Then expand the "World Wide Web Services"folder and expand "Application Development Features" folder.Check the box next to "CGI.Then click "OK" to install IIS with CGI installation.
 <img width="648" height="459" alt="Annotation 2026-07-23 014133" src="https://github.com/user-attachments/assets/07f6f9c0-a0d1-4552-8971-274f6721b4fd" />
 Now IIS and 
- Step 4 - Complete the osTicket Installationextracted osTicketthe 
+ Step 4 - Install PhP Manager for IIS
+<img width="486" height="392" alt="Annotation 2026-07-23 015906" src="https://github.com/user-attachments/assets/688ee305-4ad0-4720-9a60-ba0b6987ef6a" />
+PHP Manager for IIS has been successfully installed
+ Step 5 - Install Rewrite Module 
+<img width="496" height="382" alt="ppppp" src="https://github.com/user-attachments/assets/7ebffaf2-f7d5-4f19-abca-2b02f6d2bb9b" />
+The rewrite Module has been installed
+Step 6 -Place PHP files into the "C:PHP" folder
+<img width="836" height="498" alt="AAA" src="https://github.com/user-attachments/assets/14ecb14d-bef2-495d-bbb9-25f87a720d84" />
 
-gns by <img width="1157" height="698" alt="Screenshot 2026-07-14 190917" src="https://github.com/user-attachments/assets/7edfef2b-b75e-42e4-b31f-e292fc5fd4bd" />
-Successfully completed the osTicket installation and verified that the application was installed
-### Step 5 - Log in to the Admin Panel
-
-<img width="1124" height="672" alt="Screenshot 2026-07-14 191725" src="https://github.com/user-attachments/assets/fc871cf6-d439-4339-bcbf-d648376fbfc9" />
 
 
 
-Successfully deployed and configured the osTicket Help Desk Ticketing System and verified administrator access.
 
-## 📚 Skills Demonstrated
 
-- Help Desk Administration
-- Windows Server Administration
-- Microsoft Azure
-- IIS Configuration
-- Web Application Deployment
-- Troubleshooting
+
