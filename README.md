@@ -54,5 +54,4 @@ The first step in this next installation will be to create a new folding on the 
 Since the PHP files were downloaded in a ZIP folder, I extracted them to C:\PHP by right-clicking the file and selecting "Extract All...". This allows IIS to access PHP so osTicket can run properly.
 <img width="627" height="442" alt="BBBB" src="https://github.com/user-attachments/assets/47034281-84b3-4d28-ae48-52fefa13ab90" />
 The destination for the extraction will be "C:\PHP".
-
-
+<img width="784" height="605" alt="77777" src="https://github.com/user-attachments/assets/abbac249-fa4c-4247-b489-f76d472552cd" />
