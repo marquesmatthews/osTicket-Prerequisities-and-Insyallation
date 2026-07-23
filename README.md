@@ -83,3 +83,4 @@ Click the link "Register new PHP version"
  
 <img width="1086" height="579" alt="1222" src="https://github.com/user-attachments/assets/e080b473-bb0b-438e-9510-116c34f4577d" />
 In RegisterNew PHP Version window, I clicked the"..."button to browse for the php-cgi file.The file is located in the C:/PHP to run the osTicket
+<img width="1352" height="658" alt="INSTALL" src="https://github.com/user-attachments/assets/bc4e71a6-0eac-45b0-9920-751565a4c155" />
