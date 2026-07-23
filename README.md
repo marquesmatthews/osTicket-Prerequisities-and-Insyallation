@@ -66,13 +66,11 @@ Step 8 -Intal MySQL
  Next, I installed MySQL Server, which is the database osTicket uses to store all of its information. This includes tickets, user accounts, and settings. Without MySQL, osTicket wouldn't have a place to save its data, so it wouldn't work properly.
  <img width="491" height="386" alt="TTTT" src="https://github.com/user-attachments/assets/9b8352d1-2701-4f6a-8d50-2de3cf5668df" />
  Once the installation was complete, I checked the box to launch the MySQL Instance Configuration Wizard. The wizard was used to configure the MySQL server and create the settings needed for osTicket to connect to the database successfully. 
-
- 
-
-
-
+ <img width="500" height="404" alt="AAAN" src="https://github.com/user-attachments/assets/e9a94ae6-8544-4381-b1c4-837d002923fe" />
+<img width="491" height="381" alt="53" src="https://github.com/user-attachments/assets/175097f8-e4be-4177-b80b-bcf3770df566" />
+Select standard configuration.
 <img width="494" height="369" alt="uuu" src="https://github.com/user-attachments/assets/91f37653-7bf1-44b9-a247-8a7d812292a9" />
-
+MySQL has been succesful installed.
 Step 9 -Register PHP from within IIS
 <img width="539" height="499" alt="NOW" src="https://github.com/user-attachments/assets/91cdec8f-1e0a-4a94-93b2-049db84bb705" />
 <img width="1155" height="663" alt="PHPP" src="https://github.com/user-attachments/assets/ff1f692c-4f4c-4951-9394-c24b42e62f4d" />
