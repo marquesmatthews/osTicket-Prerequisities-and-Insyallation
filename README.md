@@ -65,6 +65,8 @@ Step 8 -Intal MySQL
 <img width="500" height="404" alt="AAAN" src="https://github.com/user-attachments/assets/501555c5-6de4-4610-a701-fab6b1c3607e" />
  Next, I installed MySQL Server, which is the database osTicket uses to store all of its information. This includes tickets, user accounts, and settings. Without MySQL, osTicket wouldn't have a place to save its data, so it wouldn't work properly.
  <img width="491" height="386" alt="TTTT" src="https://github.com/user-attachments/assets/9b8352d1-2701-4f6a-8d50-2de3cf5668df" />
+ Once the installation was complete, I checked the box to launch the MySQL Instance Configuration Wizard. The wizard was used to configure the MySQL server and create the settings needed for osTicket to connect to the database successfully. 
+
  
 
 
