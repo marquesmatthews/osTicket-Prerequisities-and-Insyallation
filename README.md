@@ -62,11 +62,13 @@ Next, I installed the Microsoft Visual C++ Redistributable. This is required bec
 <img width="490" height="292" alt="000" src="https://github.com/user-attachments/assets/08a13da6-5f8a-45a4-8003-f367a8e37194" />
 Installation was successful.
 Step 8 -Intal MySQL
+<img width="500" height="404" alt="AAAN" src="https://github.com/user-attachments/assets/501555c5-6de4-4610-a701-fab6b1c3607e" />
+
+
+
+
 <img width="494" height="369" alt="uuu" src="https://github.com/user-attachments/assets/91f37653-7bf1-44b9-a247-8a7d812292a9" />
-<img width="491" height="371" alt="233b" src="https://github.com/user-attachments/assets/e9c3cc22-36e3-4f17-8dfc-012c4feb5751" />
-<img width="491" height="381" alt="53" src="https://github.com/user-attachments/assets/5cbf22a8-cc09-4023-bb70-63645fb97071" />
-<img width="607" height="370" alt="23" src="https://github.com/user-attachments/assets/6c7726c0-09ef-4538-b20a-c07311844d6e" />
-<img width="500" height="404" alt="AAAN" src="https://github.com/user-attachments/assets/df6ab541-ae71-4782-b092-839e268ac9ba" />
+
 Step 9 -Register PHP from within IIS
 <img width="539" height="499" alt="NOW" src="https://github.com/user-attachments/assets/91cdec8f-1e0a-4a94-93b2-049db84bb705" />
 <img width="1155" height="663" alt="PHPP" src="https://github.com/user-attachments/assets/ff1f692c-4f4c-4951-9394-c24b42e62f4d" />
