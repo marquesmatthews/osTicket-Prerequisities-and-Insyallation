@@ -63,8 +63,7 @@ Next, I installed the Microsoft Visual C++ Redistributable. This is required bec
 Installation was successful.
 Step 8 -Intal MySQL
 <img width="500" height="404" alt="AAAN" src="https://github.com/user-attachments/assets/501555c5-6de4-4610-a701-fab6b1c3607e" />
-
-
+ Next, I installed MySQL Server, which is the database osTicket uses to store all of its information. This includes tickets, user accounts, and settings. Without MySQL, osTicket wouldn't have a place to save its data, so it wouldn't work properly.
 
 
 <img width="494" height="369" alt="uuu" src="https://github.com/user-attachments/assets/91f37653-7bf1-44b9-a247-8a7d812292a9" />
