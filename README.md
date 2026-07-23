@@ -51,9 +51,7 @@ Step 6 -Place PHP files into the "C:PHP" folder
 <img width="836" height="498" alt="AAA" src="https://github.com/user-attachments/assets/14ecb14d-bef2-495d-bbb9-25f87a720d84" />
 The first step in this next installation will be to create a new folding on the C:\ drive called "PHP".
 <img width="613" height="378" alt=",,,,,&#39;" src="https://github.com/user-attachments/assets/cd8929e4-64ab-4b3c-8d26-5ef754f9c79e" />
-
-
-
+Since the PHP files were downloaded in a ZIP folder, I extracted them to C:\PHP by right-clicking the file and selecting "Extract All...". This allows IIS to access PHP so osTicket can run properly.
 
 
 
